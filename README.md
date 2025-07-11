@@ -1,4 +1,4 @@
-## Olá, eu sou o Vitor Augusto, desenvolver Android e BackEnd Java
+## Olá, eu sou o Vitor Augusto
 
 
 
