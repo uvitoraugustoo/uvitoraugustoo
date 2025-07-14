@@ -2,9 +2,9 @@
 
 
 
-- 📘 Estou estudando Programação desde 2024.
-- 👩‍💻 Atualmente estou cursando Tecnico em Desenvolvimento de sistemas no Senac Minas.
-- 📱 Atualmente estou estudando como criar aplicações em Android e BackEnd Desktop utilizando Java.
+- ✅ Comecei a estudar programação em 2024.
+- 🎓 Cursando Técnico em Desenvolvimento de Sistemas – Senac Minas.
+- 💻 Estudando desenvolvimento Android e BackEnd Java.
 - 📫 Contato: vitoraugustodevpc@gmail.com 
 
 
@@ -25,8 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </div>
 
-## Onde me encontrar
+### Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-augusto-2a0982306/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulink)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoraugustodevpc@gmail.com)
+
 
